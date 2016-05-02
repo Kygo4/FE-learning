@@ -1,5 +1,5 @@
 
-转载请注明出处: [https://github.com/qiu-deqing/FE-learning](https://github.com/qiu-deqing/FE-learning)
+转载自: [https://github.com/qiu-deqing/FE-learning](https://github.com/qiu-deqing/FE-learning)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
